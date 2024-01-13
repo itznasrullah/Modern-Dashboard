@@ -9,7 +9,7 @@ function App() {
   const [retireAge, setRetireAge] = useState(60);
 
   return (
-    <div className="App">
+    <div className="App"> 
       <Navbar />
       <div className='container'>
         <div className='section1'>
