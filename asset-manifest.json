@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Modern-Dashboard/static/css/main.5dc35728.css",
-    "main.js": "/Modern-Dashboard/static/js/main.e10283d7.js",
+    "main.js": "/Modern-Dashboard/static/js/main.4cd83ae3.js",
     "static/js/787.e1b94bec.chunk.js": "/Modern-Dashboard/static/js/787.e1b94bec.chunk.js",
     "static/media/logo.svg": "/Modern-Dashboard/static/media/logo.879f9e4fe926695271e8e6bc56a76ca0.svg",
     "static/media/newspaper.svg": "/Modern-Dashboard/static/media/newspaper.c3be771f9340c6ee37112463dce27784.svg",
@@ -13,11 +13,11 @@
     "static/media/home.svg": "/Modern-Dashboard/static/media/home.11767db719c3c1e1675dd7fc6a1bb2b1.svg",
     "static/media/search.svg": "/Modern-Dashboard/static/media/search.c36fb72bae0372ba5efda1d389bac5f1.svg",
     "main.5dc35728.css.map": "/Modern-Dashboard/static/css/main.5dc35728.css.map",
-    "main.e10283d7.js.map": "/Modern-Dashboard/static/js/main.e10283d7.js.map",
+    "main.4cd83ae3.js.map": "/Modern-Dashboard/static/js/main.4cd83ae3.js.map",
     "787.e1b94bec.chunk.js.map": "/Modern-Dashboard/static/js/787.e1b94bec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dc35728.css",
-    "static/js/main.e10283d7.js"
+    "static/js/main.4cd83ae3.js"
   ]
 }
