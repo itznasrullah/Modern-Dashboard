@@ -1,0 +1,104 @@
+.Navbar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    padding: 1rem 0.5rem;
+    background-color: #fafafa;
+}
+
+.Navbar .nav-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.Navbar .nav-main-btn, .Navbar .nav-outer-btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.Navbar .logo{
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+.Navbar .nav-btn{
+    height: 1.3rem;
+    width: 1.3rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    color: #9a9a9a;
+    cursor: pointer;
+}
+
+.Navbar .nav-btn path{
+    stroke: #9a9a9a;
+}
+
+.Navbar .nav-btn.selected{
+    background-color: #4935ff;
+}
+
+.Navbar .nav-main-btn .nav-btn.selected path{
+    stroke: #fff;
+}
+
+.Navbar .nav-main-btn .nav-btn.fill.selected path{
+    fill: #fff;
+}
+
+.Navbar .nav-btn.fill path{
+    fill: #9a9a9a;
+}
+
+.Navbar .nav-container .nav-btn.search-btn{
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .Navbar{
+        flex-direction: row;
+        top: auto;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    .Navbar .nav-btn{
+        height: 1.5rem;
+        width: 1.5rem;
+    }
+    
+    .Navbar .nav-outer-btn{
+        display: none;
+    }
+    
+    .Navbar .nav-container{
+        width: 100%;
+    }
+    
+    .Navbar .nav-container .nav-main-btn{
+        width: 100%;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .Navbar .nav-container .nav-btn.search-btn{
+        display: block;
+    }
+
+    .Navbar .nav-container .nav-btn.notification{
+        display: block;
+        position: fixed;
+        top: 2rem;
+        right: 2.5rem;
+    }
+}
