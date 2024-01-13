@@ -14,7 +14,7 @@ function App() {
       <div className='container'>
         <div className='section1'>
           <div className='user-greeting'>
-            <img className='profile-img' src="https://media.licdn.com/dms/image/D4D03AQHIjAF43brF0Q/profile-displayphoto-shrink_800_800/0/1686838465125?e=1710374400&v=beta&t=Z8lBF8PKIEPoP0lcxShAdYlDPWcYETMCrzUMlgvVnv8" alt="Profile Img" />
+            <img className='profile-img' src="https://images.pexels.com/photos/9929131/pexels-photo-9929131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Profile Img" />
             <div>
               <h2 className='bitter hi-greeting'>Hi Mike,</h2>
               <span className='welcome-back'>welcome back.</span>
