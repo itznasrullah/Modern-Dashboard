@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Modern-Dashboard/static/css/main.5dc35728.css",
+    "main.js": "/Modern-Dashboard/static/js/main.e10283d7.js",
+    "static/js/787.e1b94bec.chunk.js": "/Modern-Dashboard/static/js/787.e1b94bec.chunk.js",
+    "static/media/logo.svg": "/Modern-Dashboard/static/media/logo.879f9e4fe926695271e8e6bc56a76ca0.svg",
+    "static/media/newspaper.svg": "/Modern-Dashboard/static/media/newspaper.c3be771f9340c6ee37112463dce27784.svg",
+    "index.html": "/Modern-Dashboard/index.html",
+    "static/media/list.svg": "/Modern-Dashboard/static/media/list.d4239e0252203a37d668560d9696d72f.svg",
+    "static/media/notification.svg": "/Modern-Dashboard/static/media/notification.7667ddf41d2d291a42c8f3caad0b47b3.svg",
+    "static/media/user.svg": "/Modern-Dashboard/static/media/user.8954c0b73de8d5547e56c2a8a8ead250.svg",
+    "static/media/exit.svg": "/Modern-Dashboard/static/media/exit.1ab3db42db15cebc0f4440061e68e26a.svg",
+    "static/media/home.svg": "/Modern-Dashboard/static/media/home.11767db719c3c1e1675dd7fc6a1bb2b1.svg",
+    "static/media/search.svg": "/Modern-Dashboard/static/media/search.c36fb72bae0372ba5efda1d389bac5f1.svg",
+    "main.5dc35728.css.map": "/Modern-Dashboard/static/css/main.5dc35728.css.map",
+    "main.e10283d7.js.map": "/Modern-Dashboard/static/js/main.e10283d7.js.map",
+    "787.e1b94bec.chunk.js.map": "/Modern-Dashboard/static/js/787.e1b94bec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc35728.css",
+    "static/js/main.e10283d7.js"
+  ]
+}
